@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534160370106",
+    "firebase_url": "https://camerarn-12b82.firebaseio.com",
+    "project_id": "camerarn-12b82",
+    "storage_bucket": "camerarn-12b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534160370106:android:d785d8b362f2e39a4ed583",
+        "android_client_info": {
+          "package_name": "com.camerarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534160370106-j8ijolif5vahojc0tb1abuou52s3sqlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaqu1U6nP7lzX6Io4sSCiuvrurGXqXWdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534160370106-j8ijolif5vahojc0tb1abuou52s3sqlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
